@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "謎の力",
+  "base_artist": "22/7",
+  "createdAt": "2025-12-15T04:35:36.793054Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "謎の力",
+      "artist": "22／7",
+      "has_synced": true,
+      "path": "select/01_謎の力_22_7.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "謎の力",
+      "artist": "22/7",
+      "has_synced": false,
+      "path": "select/02_謎の力_22_7.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "謎の力",
+      "artist": "22/7",
+      "has_synced": false,
+      "path": "select/pl_01_謎の力_22_7.txt"
+    }
+  ]
+}
